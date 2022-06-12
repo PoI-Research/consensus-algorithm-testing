@@ -10,7 +10,7 @@
         "petersburgBlock": 0,
         "poi": {
             "numberOfRobots": 10,
-            "swarmControllerURI": "http://localhost:8080"
+            "swarmControllerURI": "http://192.168.8.105:8080"
         }
     },
     "difficulty": "1000",
